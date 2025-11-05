@@ -1,4 +1,6 @@
-# csv_converter# 📚 Asahi_lib Tools & Learning Record
+# csv_converter#  
+
+Asahi_lib Tools & Learning Record
 
 こんにちは。Asahi_lib です。  
 Pythonを使ったツール開発・自動化を中心に学びながら制作しています。  
@@ -19,13 +21,13 @@ Pythonを使ったツール開発・自動化を中心に学びながら制作�
 
 ---
 
-## 🧭 今後の目標
+## 今後の目標
 - Webスクレイピングや自動化処理の習得  
 - 小規模GUIツールを複数制作  
 
 ---
 
-## 🔗 プロフィール
+##  プロフィール
 - **活動名**: Asahi_lib
 - **目標**: 「シンプルで役立つツール」を作ること
 
